@@ -1,0 +1,2 @@
+2024-08-27T11:57:37.781109Z  INFO foo: tracing_file_test: handle foo monotonic_counter.foo=1 key_1="bar" key_2=10
+2024-08-27T11:57:37.781320Z  INFO foo: tracing_file_test: histogram example histogram.baz=10
